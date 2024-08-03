@@ -2,8 +2,6 @@
 
 Note-Taking API
 
-Setup
-
 ### Prerequisites
 
 - Node.js (latest version)
